@@ -1,4 +1,4 @@
-© Chill-Astro Software | 2026
+https://github.com/Chill-Astro/FOSS-Root-Checker.git© Chill-Astro Software | 2026
 
 ---
 
